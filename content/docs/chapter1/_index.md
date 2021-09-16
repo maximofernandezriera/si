@@ -31,7 +31,7 @@ Introducción .Composición. Funciones y objetivos. Tipo. Servicios. Introducci�
 
 * Desarrollo y mejora de **máquinas**
 * Desarrollo y mejora de nuevos **sistemas** automáticos de trabajo. 
-* Construcción de**aplicaciones**informáticas. 
+* Construcción de **aplicaciones**informáticas. 
 
 ## El sistema binario
 
