@@ -12,7 +12,7 @@ date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-# La informática
+## La informática
 
 * Nace para evitar tareas repetitivas de cálculo y gestión. 
 
@@ -26,7 +26,7 @@ type: book  # Do not modify.
 * Desarrollo y mejora de nuevos **sistemas** automáticos de trabajo
 * Construcción de **aplicaciones informáticas**
 
-# El sistema binario
+## El sistema binario
 
 * Para los ordenadores todos los datos son números y todo acaban  siendo conjuntos de 0 s y 1 s
 
@@ -36,7 +36,7 @@ type: book  # Do not modify.
 
 * Códigos alfanuméricos
 
-### Medida de la información
+## Medida de la información
 
 * Como en la mayoría de ámbitos, en la informática se utiliza una  unidad base y sus múltiples → **el bit (b**)
 
