@@ -12,11 +12,7 @@ date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-# Contenido de la unidad
-
-Introducción .Composición. Funciones y objetivos. Tipo. Servicios. Introducción a los sistemas operativos DOS y UNIX. 
-
-## La informática
+# La informática
 
 * Nace para evitar tareas repetitivas de cálculo y gestión. 
 
@@ -24,17 +20,17 @@ Introducción .Composición. Funciones y objetivos. Tipo. Servicios. Introducci�
 
 **INFOR**mation auto**MATIQUE** 
 
-**La informática es la ciencia que estudia el tratamiento  automático y racional de la información.** 
+**La informática es la ciencia que estudia el tratamiento  automático y racional de la información** 
 
 * Desarrollo y mejora de **máquinas**
-* Desarrollo y mejora de nuevos **sistemas** automáticos de trabajo. 
-* Construcción de** aplicaciones**informáticas.
+* Desarrollo y mejora de nuevos **sistemas** automáticos de trabajo
+* Construcción de **aplicaciones informáticas**
 
-## El sistema binario
+# El sistema binario
 
-* Para los ordenadores todos los datos son números y todo acaban  siendo conjuntos de 0 s y 1 s. 
+* Para los ordenadores todos los datos son números y todo acaban  siendo conjuntos de 0 s y 1 s
 
-* Debido a esto último, el ordenador no utiliza el sistema decimal si  no el **sistema**binario. 
+* Debido a esto último, el ordenador no utiliza el sistema decimal si  no el **sistema binario**
 
 * El ordenador utiliza mecanismos que traducen los datos a: sistemas numéricos 
 
@@ -42,7 +38,7 @@ Introducción .Composición. Funciones y objetivos. Tipo. Servicios. Introducci�
 
 ### Medida de la información
 
-* Como en la mayoría de ámbitos, en la informática se utiliza una  unidad base y sus múltiples → **el bit (b**). 
+* Como en la mayoría de ámbitos, en la informática se utiliza una  unidad base y sus múltiples → **el bit (b**)
 
 ### Permiten dos valores: **0** y **1.** 
 
