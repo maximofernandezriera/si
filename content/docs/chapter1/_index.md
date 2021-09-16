@@ -9,9 +9,9 @@ icon_pack: fas
 # Page metadata.
 title: Unidad 1
 date: "2018-09-09T00:00:00Z"
-type: book  # Do not modify.Unidad Didáctica 2 
+type: book  # Do not modify.
 
-# El sistema operativo 
+# Unidad 1
 
 Máximo Fernández Riera - 2021
 
