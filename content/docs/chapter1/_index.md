@@ -7,7 +7,7 @@ icon: book-reader
 icon_pack: fas
 
 # Page metadata.
-title: Introducción a los sistemas informáticos y los sistemas operativos
+title: Los sistemas informáticos y los sistemas operativos
 date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
