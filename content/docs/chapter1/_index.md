@@ -1,54 +1,34 @@
 ---
 # Title, summary, and page position.
-linktitle: Chapter 2
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
+linktitle: Unidad 1
+summary: Una picelada sobre sistemas operativos
 weight: 1
 icon: book-reader
 icon_pack: fas
 
 # Page metadata.
-title: Chapter 2
+title: El sistema operativo
 date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
+# SISTEMAS INFORMÁTICOS
 
-## Flexibility
+Máximo Fernández Riera - 2021
 
-This feature can be used for publishing content such as:
+# El sistema operativo 
 
-* **Online courses**
-* **Project or software documentation**
-* **Tutorials**
-* **Notes**
+Introducción .Composición. Funciones y objetivos. Tipo. Servicios. Introducción a los sistemas operativos DOS y UNIX. 
 
-The `courses` folder may be renamed. For example, we can rename it to `docs` for software/project documentation or `tutorials` for creating an online course.
+## La informática
 
-## Delete courses
+* Nace para evitar tareas repetitivas de cálculo y gestión. 
 
-**To remove these pages, delete the `courses` folder and see below to delete the associated menu link.**
+* El término informática apareció en Francia en 1962: 
 
-## Update site menu
+**INFOR**mation auto**MATIQUE** 
 
-After renaming or deleting the `courses` folder, you may wish to update any `[[main]]` menu links to it by editing your menu configuration at `config/_default/menus.toml`.
+**La informática es la ciencia que estudia el tratamiento  automático y racional de la información.** 
 
-For example, if you delete this folder, you can remove the following from your menu configuration:
-
-```toml
-[[main]]
-  name = "Courses"
-  url = "courses/"
-  weight = 50
-```
-
-Or, if you are creating a software documentation site, you can rename the `courses` folder to `docs` and update the associated *Courses* menu configuration to:
-
-```toml
-[[main]]
-  name = "Docs"
-  url = "docs/"
-  weight = 50
-```
-
-## Update the docs menu
-
-If you use the *docs* layout, note that the name of the menu in the front matter should be in the form `[menu.X]` where `X` is the folder name. Hence, if you rename the `courses/example/` folder, you should also rename the menu definitions in the front matter of files within `courses/example/` from `[menu.example]` to `[menu.<NewFolderName>]`.
+* Desarrollo y mejora de **máquinas**
+* Desarrollo y mejora de nuevos **sistemas** automáticos de trabajo. 
+* Construcción de**aplicaciones**informáticas.
